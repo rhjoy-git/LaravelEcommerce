@@ -2,7 +2,7 @@
     <div class="row">
         <div class="col-md-4 col-sm-4">
             <div class="wide-banner cnt-strip">
-                <div class="image"> <img class="img-responsive" src="assets/images/banners/home-banner1.jpg"
+                <div class="image"> <img class="img-responsive" src="{{ asset('images/banners/home-banner1.jpg') }}"
                         alt=""> </div>
             </div>
             <!-- /.wide-banner -->
@@ -10,7 +10,7 @@
 
         <div class="col-md-4 col-sm-4">
             <div class="wide-banner cnt-strip">
-                <div class="image"> <img class="img-responsive" src="assets/images/banners/home-banner3.jpg"
+                <div class="image"> <img class="img-responsive" src="{{ asset('images/banners/home-banner3.jpg') }}"
                         alt=""> </div>
             </div>
             <!-- /.wide-banner -->
@@ -19,7 +19,7 @@
         <!-- /.col -->
         <div class="col-md-4 col-sm-4">
             <div class="wide-banner cnt-strip">
-                <div class="image"> <img class="img-responsive" src="assets/images/banners/home-banner2.jpg"
+                <div class="image"> <img class="img-responsive" src="{{ asset('images/banners/home-banner2.jpg') }}"
                         alt=""> </div>
             </div>
             <!-- /.wide-banner -->

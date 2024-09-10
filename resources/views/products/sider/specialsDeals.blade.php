@@ -1,5 +1,5 @@
-<div class="sidebar-widget outer-bottom-small">
-    <h3 class="section-title">Special Offer</h3>
+<div class="sidebar-widget outer-bottom-small mt-lg-3">
+    <h3 class="section-title">Special Deals</h3>
     <div class="sidebar-widget-body outer-top-xs">
         <div class="owl-carousel sidebar-carousel special-offer custom-carousel owl-theme outer-top-xs">
             <div class="item">
@@ -9,7 +9,7 @@
                             <div class="row product-micro-row">
                                 <div class="col col-xs-5">
                                     <div class="product-image">
-                                        <div class="image"> <a href="#"> <img src="assets/images/products/p5.jpg"
+                                        <div class="image"> <a href="#"> <img src=" {{ asset('images/products/p8.jpg') }}"
                                                     alt=""> </a> </div>
                                         <!-- /.image -->
 
@@ -38,7 +38,7 @@
                             <div class="row product-micro-row">
                                 <div class="col col-xs-5">
                                     <div class="product-image">
-                                        <div class="image"> <a href="#"> <img src="assets/images/products/p9.jpg"
+                                        <div class="image"> <a href="#"> <img src=" {{ asset('images/products/p5.jpg') }}"
                                                     alt=""> </a> </div>
                                         <!-- /.image -->
 
@@ -67,8 +67,8 @@
                             <div class="row product-micro-row">
                                 <div class="col col-xs-5">
                                     <div class="product-image">
-                                        <div class="image"> <a href="#"> <img
-                                                    src="assets/images/products/p11.jpg" alt=""> </a> </div>
+                                        <div class="image"> <a href="#"> <img src=" {{ asset('images/products/p6.jpg') }}"
+                                                    alt="image"> </a> </div>
                                         <!-- /.image -->
 
                                     </div>
@@ -100,8 +100,8 @@
                             <div class="row product-micro-row">
                                 <div class="col col-xs-5">
                                     <div class="product-image">
-                                        <div class="image"> <a href="#"> <img
-                                                    src="assets/images/products/p15.jpg" alt=""> </a> </div>
+                                        <div class="image"> <a href="#"> <img src=" {{ asset('images/products/p8.jpg') }}"
+                                                    alt=""> </a> </div>
                                         <!-- /.image -->
 
                                     </div>
@@ -129,8 +129,8 @@
                             <div class="row product-micro-row">
                                 <div class="col col-xs-5">
                                     <div class="product-image">
-                                        <div class="image"> <a href="#"> <img
-                                                    src="assets/images/products/p13.jpg" alt=""> </a> </div>
+                                        <div class="image"> <a href="#"> <img src=" {{ asset('images/products/p7.jpg') }}"
+                                                    alt=""> </a> </div>
                                         <!-- /.image -->
 
                                     </div>
@@ -158,8 +158,8 @@
                             <div class="row product-micro-row">
                                 <div class="col col-xs-5">
                                     <div class="product-image">
-                                        <div class="image"> <a href="#"> <img
-                                                    src="assets/images/products/p12.jpg" alt=""> </a> </div>
+                                        <div class="image"> <a href="#"> <img src=" {{ asset('images/products/p6.jpg') }}"
+                                                    alt=""> </a> </div>
                                         <!-- /.image -->
 
                                     </div>
@@ -172,7 +172,6 @@
                                         <div class="rating rateit-small"></div>
                                         <div class="product-price"> <span class="price"> $450.99 </span> </div>
                                         <!-- /.product-price -->
-
                                     </div>
                                 </div>
                                 <!-- /.col -->
@@ -192,7 +191,9 @@
                                 <div class="col col-xs-5">
                                     <div class="product-image">
                                         <div class="image"> <a href="#"> <img
-                                                    src="assets/images/products/p1.jpg" alt=""> </a> </div>
+                                                    src=" {{ asset('images/products/p5.jpg') }}" alt="images">
+                                                <div class="zoom-overlay"></div>
+                                            </a> </div>
                                         <!-- /.image -->
 
                                     </div>
@@ -221,7 +222,9 @@
                                 <div class="col col-xs-5">
                                     <div class="product-image">
                                         <div class="image"> <a href="#"> <img
-                                                    src="assets/images/products/p3.jpg" alt=""> </a> </div>
+                                                    src=" {{ asset('images/products/p4.jpg') }}" alt="">
+                                                <div class="zoom-overlay"></div>
+                                            </a> </div>
                                         <!-- /.image -->
 
                                     </div>
@@ -234,6 +237,7 @@
                                         <div class="rating rateit-small"></div>
                                         <div class="product-price"> <span class="price"> $450.99 </span> </div>
                                         <!-- /.product-price -->
+
                                     </div>
                                 </div>
                                 <!-- /.col -->
@@ -249,7 +253,7 @@
                                 <div class="col col-xs-5">
                                     <div class="product-image">
                                         <div class="image"> <a href="#"> <img
-                                                    src="assets/images/products/p7.jpg" alt=""> </a> </div>
+                                                    src=" {{ asset('images/products/p13.jpg') }}" alt="image"> </a> </div>
                                         <!-- /.image -->
 
                                     </div>

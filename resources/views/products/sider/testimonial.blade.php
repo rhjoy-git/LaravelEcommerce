@@ -1,7 +1,7 @@
 <div class="sidebar-widget outer-top-vs ">
     <div id="advertisement" class="advertisement">
         <div class="item">
-            <div class="avatar"><img src="assets/images/testimonials/member1.png" alt="Image"></div>
+            <div class="avatar"><img src="{{ asset('images/testimonials/member1.png') }}" alt="Image"></div>
             <div class="testimonials"><em>"</em> Vtae sodales aliq uam morbi non sem lacus port mollis. Nunc condime tum
                 metus eud molest sed consectetuer. Sed quia non numquam eius modi tempora incidunt ut labore et dolore
                 magnam aliquam quaerat.<em>"</em></div>
@@ -11,7 +11,7 @@
         <!-- /.item -->
 
         <div class="item">
-            <div class="avatar"><img src="assets/images/testimonials/member3.png" alt="Image"></div>
+            <div class="avatar"><img src="{{ asset('images/testimonials/member3.png') }}" alt="Image"></div>
             <div class="testimonials"><em>"</em>Vtae sodales aliq uam morbi non sem lacus port mollis. Nunc condime tum
                 metus eud molest sed consectetuer. Sed quia non numquam eius modi tempora incidunt ut labore et dolore
                 magnam aliquam quaerat.<em>"</em></div>
@@ -20,7 +20,7 @@
         <!-- /.item -->
 
         <div class="item">
-            <div class="avatar"><img src="assets/images/testimonials/member2.png" alt="Image"></div>
+            <div class="avatar"><img src="{{ asset('images/testimonials/member2.png') }}" alt="Image"></div>
             <div class="testimonials"><em>"</em>Vtae sodales aliq uam morbi non sem lacus port mollis. Nunc condime tum
                 metus eud molest sed consectetuer. Sed quia non numquam eius modi tempora incidunt ut labore et dolore
                 magnam aliquam quaerat.<em>"</em></div>

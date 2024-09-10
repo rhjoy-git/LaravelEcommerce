@@ -23,8 +23,8 @@
                             <div class="product-image">
                                 <div class="image">
                                     <a href="detail.html">
-                                        <img src="assets/images/products/p13.jpg" alt="">
-                                        <img src="assets/images/products/p13_hover.jpg" alt=""
+                                        <img src="{{ asset('images/products/p13.jpg') }}" alt="">
+                                        <img src="{{ asset('images/products/p13_hover.jpg') }}" alt=""
                                             class="hover-image">
                                     </a>
 
@@ -76,8 +76,8 @@
                             <div class="product-image">
                                 <div class="image">
                                     <a href="detail.html">
-                                        <img src="assets/images/products/p15.jpg" alt="">
-                                        <img src="assets/images/products/p15_hover.jpg" alt=""
+                                        <img src="{{ asset('images/products/p15.jpg') }}" alt="">
+                                        <img src="{{ asset('images/products/p15_hover.jpg') }}" alt=""
                                             class="hover-image">
                                     </a>
 
@@ -129,8 +129,8 @@
                             <div class="product-image">
                                 <div class="image">
                                     <a href="detail.html">
-                                        <img src="assets/images/products/p10.jpg" alt="">
-                                        <img src="assets/images/products/p10_hover.jpg" alt=""
+                                        <img src="{{ asset('images/products/p10.jpg') }}" alt="">
+                                        <img src="{{ asset('images/products/p10_hover.jpg') }}" alt=""
                                             class="hover-image">
                                     </a>
 
@@ -184,8 +184,8 @@
                             <div class="product-image">
                                 <div class="image">
                                     <a href="detail.html">
-                                        <img src="assets/images/products/p11.jpg" alt="">
-                                        <img src="assets/images/products/p11_hover.jpg" alt=""
+                                        <img src="{{ asset('images/products/p11.jpg') }}" alt="">
+                                        <img src="{{ asset('images/products/p11_hover.jpg') }}" alt=""
                                             class="hover-image">
                                     </a>
 
@@ -239,8 +239,8 @@
                             <div class="product-image">
                                 <div class="image">
                                     <a href="detail.html">
-                                        <img src="assets/images/products/p8.jpg" alt="">
-                                        <img src="assets/images/products/p8_hover.jpg" alt=""
+                                        <img src="{{ asset('images/products/p8.jpg') }}" alt="">
+                                        <img src="{{ asset('images/products/p8_hover.jpg') }}" alt=""
                                             class="hover-image">
                                     </a>
 
@@ -294,8 +294,8 @@
                             <div class="product-image">
                                 <div class="image">
                                     <a href="detail.html">
-                                        <img src="assets/images/products/p7.jpg" alt="">
-                                        <img src="assets/images/products/p7_hover.jpg" alt=""
+                                        <img src="{{ asset('images/products/p7.jpg') }}" alt="">
+                                        <img src="{{ asset('images/products/p7_hover.jpg') }}" alt=""
                                             class="hover-image">
                                     </a>
 

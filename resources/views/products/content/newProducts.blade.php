@@ -19,8 +19,8 @@
                                 <div class="product-image">
                                     <div class="image">
                                         <a href="detail.html">
-                                            <img src="assets/images/products/p1.jpg" alt="">
-                                            <img src="assets/images/products/p1_hover.jpg" alt=""
+                                            <img src=" {{ asset('images/products/p1.jpg') }}" alt="">
+                                            <img src=" {{ asset('images/products/p1_hover.jpg') }}" alt=""
                                                 class="hover-image">
                                         </a>
                                     </div>
@@ -75,8 +75,8 @@
                                 <div class="product-image">
                                     <div class="image">
                                         <a href="detail.html">
-                                            <img src="assets/images/products/p4.jpg" alt="">
-                                            <img src="assets/images/products/p4_hover.jpg" alt=""
+                                            <img src=" {{ asset('images/products/p4.jpg') }}" alt="">
+                                            <img src=" {{ asset('images/products/p4_hover.jpg') }}" alt=""
                                                 class="hover-image">
                                         </a>
                                     </div>
@@ -129,8 +129,8 @@
                                 <div class="product-image">
                                     <div class="image">
                                         <a href="detail.html">
-                                            <img src="assets/images/products/p3.jpg" alt="">
-                                            <img src="assets/images/products/p3_hover.jpg" alt=""
+                                            <img src=" {{ asset('images/products/p3.jpg') }}" alt="">
+                                            <img src=" {{ asset('images/products/p3_hover.jpg') }}" alt=""
                                                 class="hover-image">
                                         </a>
                                     </div>
@@ -183,8 +183,8 @@
                                 <div class="product-image">
                                     <div class="image">
                                         <a href="detail.html">
-                                            <img src="assets/images/products/p2.jpg" alt="">
-                                            <img src="assets/images/products/p2_hover.jpg" alt=""
+                                            <img src=" {{ asset('images/products/p2.jpg') }}" alt="">
+                                            <img src=" {{ asset('images/products/p2_hover.jpg') }}" alt=""
                                                 class="hover-image">
                                         </a>
                                     </div>
@@ -237,8 +237,8 @@
                                 <div class="product-image">
                                     <div class="image">
                                         <a href="detail.html">
-                                            <img src="assets/images/products/p6.jpg" alt="">
-                                            <img src="assets/images/products/p6_hover.jpg" alt=""
+                                            <img src=" {{ asset('images/products/p6.jpg') }}" alt="">
+                                            <img src=" {{ asset('images/products/p6_hover.jpg') }}" alt=""
                                                 class="hover-image">
                                         </a>
                                     </div>
@@ -291,8 +291,8 @@
                                 <div class="product-image">
                                     <div class="image">
                                         <a href="detail.html">
-                                            <img src="assets/images/products/p5.jpg" alt="">
-                                            <img src="assets/images/products/p5_hover.jpg" alt=""
+                                            <img src=" {{ asset('images/products/p5.jpg') }}" alt="">
+                                            <img src=" {{ asset('images/products/p5_hover.jpg') }}" alt=""
                                                 class="hover-image">
                                         </a>
                                     </div>
@@ -354,8 +354,8 @@
                                 <div class="product-image">
                                     <div class="image">
                                         <a href="detail.html">
-                                            <img src="assets/images/products/p7.jpg" alt="">
-                                            <img src="assets/images/products/p7_hover.jpg" alt=""
+                                            <img src=" {{ asset('images/products/p7.jpg') }}" alt="">
+                                            <img src=" {{ asset('images/products/p7_hover.jpg') }}" alt=""
                                                 class="hover-image">
                                         </a>
 
@@ -409,8 +409,8 @@
                                 <div class="product-image">
                                     <div class="image">
                                         <a href="detail.html">
-                                            <img src="assets/images/products/p8.jpg" alt="">
-                                            <img src="assets/images/products/p8_hover.jpg" alt=""
+                                            <img src=" {{ asset('images/products/p8.jpg') }}" alt="">
+                                            <img src=" {{ asset('images/products/p8_hover.jpg') }}" alt=""
                                                 class="hover-image">
                                         </a>
 
@@ -464,8 +464,8 @@
                                 <div class="product-image">
                                     <div class="image">
                                         <a href="detail.html">
-                                            <img src="assets/images/products/p9.jpg" alt="">
-                                            <img src="assets/images/products/p9_hover.jpg" alt=""
+                                            <img src=" {{ asset('images/products/p9.jpg') }}" alt="">
+                                            <img src=" {{ asset('images/products/p9_hover.jpg') }}" alt=""
                                                 class="hover-image">
                                         </a>
 
@@ -519,8 +519,8 @@
                                 <div class="product-image">
                                     <div class="image">
                                         <a href="detail.html">
-                                            <img src="assets/images/products/p10.jpg" alt="">
-                                            <img src="assets/images/products/p10_hover.jpg" alt=""
+                                            <img src=" {{ asset('images/products/p10.jpg') }}" alt="">
+                                            <img src=" {{ asset('images/products/p10_hover.jpg') }}" alt=""
                                                 class="hover-image">
                                         </a>
 
@@ -574,8 +574,8 @@
                                 <div class="product-image">
                                     <div class="image">
                                         <a href="detail.html">
-                                            <img src="assets/images/products/p11.jpg" alt="">
-                                            <img src="assets/images/products/p11_hover.jpg" alt=""
+                                            <img src=" {{ asset('images/products/p11.jpg') }}" alt="">
+                                            <img src=" {{ asset('images/products/p11_hover.jpg') }}" alt=""
                                                 class="hover-image">
                                         </a>
 
@@ -629,8 +629,8 @@
                                 <div class="product-image">
                                     <div class="image">
                                         <a href="detail.html">
-                                            <img src="assets/images/products/p12.jpg" alt="">
-                                            <img src="assets/images/products/p12_hover.jpg" alt=""
+                                            <img src=" {{ asset('images/products/p12.jpg') }}" alt="">
+                                            <img src=" {{ asset('images/products/p12_hover.jpg') }}" alt=""
                                                 class="hover-image">
                                         </a>
 
@@ -693,8 +693,8 @@
                                 <div class="product-image">
                                     <div class="image">
                                         <a href="detail.html">
-                                            <img src="assets/images/products/p15.jpg" alt="">
-                                            <img src="assets/images/products/p15_hover.jpg" alt=""
+                                            <img src=" {{ asset('images/products/p15.jpg') }}" alt="">
+                                            <img src=" {{ asset('images/products/p15_hover.jpg') }}" alt=""
                                                 class="hover-image">
                                         </a>
 
@@ -748,8 +748,8 @@
                                 <div class="product-image">
                                     <div class="image">
                                         <a href="detail.html">
-                                            <img src="assets/images/products/p2.jpg" alt="">
-                                            <img src="assets/images/products/p2_hover.jpg" alt=""
+                                            <img src=" {{ asset('images/products/p2.jpg') }}" alt="">
+                                            <img src=" {{ asset('images/products/p2_hover.jpg') }}" alt=""
                                                 class="hover-image">
                                         </a>
 
@@ -803,8 +803,8 @@
                                 <div class="product-image">
                                     <div class="image">
                                         <a href="detail.html">
-                                            <img src="assets/images/products/p8.jpg" alt="">
-                                            <img src="assets/images/products/p8_hover.jpg" alt=""
+                                            <img src=" {{ asset('images/products/p8.jpg') }}" alt="">
+                                            <img src=" {{ asset('images/products/p8_hover.jpg') }}" alt=""
                                                 class="hover-image">
                                         </a>
 
@@ -857,8 +857,8 @@
                             <div class="product">
                                 <div class="image">
                                     <a href="detail.html">
-                                        <img src="assets/images/products/p14.jpg" alt="">
-                                        <img src="assets/images/products/p14_hover.jpg" alt=""
+                                        <img src=" {{ asset('images/products/p14.jpg') }}" alt="">
+                                        <img src=" {{ asset('images/products/p14_hover.jpg') }}" alt=""
                                             class="hover-image">
                                     </a>
 
@@ -908,8 +908,8 @@
                                 <div class="product-image">
                                     <div class="image">
                                         <a href="detail.html">
-                                            <img src="assets/images/products/p12.jpg" alt="">
-                                            <img src="assets/images/products/p12_hover.jpg" alt=""
+                                            <img src=" {{ asset('images/products/p12.jpg') }}" alt="">
+                                            <img src=" {{ asset('images/products/p12_hover.jpg') }}" alt=""
                                                 class="hover-image">
                                         </a>
 
@@ -963,8 +963,8 @@
                                 <div class="product-image">
                                     <div class="image">
                                         <a href="detail.html">
-                                            <img src="assets/images/products/p9.jpg" alt="">
-                                            <img src="assets/images/products/p9_hover.jpg" alt=""
+                                            <img src=" {{ asset('images/products/p9.jpg') }}" alt="">
+                                            <img src=" {{ asset('images/products/p9_hover.jpg') }}" alt=""
                                                 class="hover-image">
                                         </a>
 
@@ -1027,8 +1027,8 @@
                                 <div class="product-image">
                                     <div class="image">
                                         <a href="detail.html">
-                                            <img src="assets/images/products/p13.jpg" alt="">
-                                            <img src="assets/images/products/p13_hover.jpg" alt=""
+                                            <img src=" {{ asset('images/products/p13.jpg') }}" alt="">
+                                            <img src=" {{ asset('images/products/p13_hover.jpg') }}" alt=""
                                                 class="hover-image">
                                         </a>
 
@@ -1082,8 +1082,8 @@
                                 <div class="product-image">
                                     <div class="image">
                                         <a href="detail.html">
-                                            <img src="assets/images/products/p11.jpg" alt="">
-                                            <img src="assets/images/products/p11_hover.jpg" alt=""
+                                            <img src=" {{ asset('images/products/p11.jpg') }}" alt="">
+                                            <img src=" {{ asset('images/products/p11_hover.jpg') }}" alt=""
                                                 class="hover-image">
                                         </a>
 
@@ -1137,8 +1137,8 @@
                                 <div class="product-image">
                                     <div class="image">
                                         <a href="detail.html">
-                                            <img src="assets/images/products/p4.jpg" alt="">
-                                            <img src="assets/images/products/p4_hover.jpg" alt=""
+                                            <img src=" {{ asset('images/products/p4.jpg') }}" alt="">
+                                            <img src=" {{ asset('images/products/p4_hover.jpg') }}" alt=""
                                                 class="hover-image">
                                         </a>
 
@@ -1192,8 +1192,8 @@
                                 <div class="product-image">
                                     <div class="image">
                                         <a href="detail.html">
-                                            <img src="assets/images/products/p1.jpg" alt="">
-                                            <img src="assets/images/products/p1_hover.jpg" alt=""
+                                            <img src=" {{ asset('images/products/p1.jpg') }}" alt="">
+                                            <img src=" {{ asset('images/products/p1_hover.jpg') }}" alt=""
                                                 class="hover-image">
                                         </a>
 
@@ -1247,8 +1247,8 @@
                                 <div class="product-image">
                                     <div class="image">
                                         <a href="detail.html">
-                                            <img src="assets/images/products/p10.jpg" alt="">
-                                            <img src="assets/images/products/p10_hover.jpg" alt=""
+                                            <img src=" {{ asset('images/products/p10.jpg') }}" alt="">
+                                            <img src=" {{ asset('images/products/p10_hover.jpg') }}" alt=""
                                                 class="hover-image">
                                         </a>
 
@@ -1302,8 +1302,8 @@
                                 <div class="product-image">
                                     <div class="image">
                                         <a href="detail.html">
-                                            <img src="assets/images/products/p6.jpg" alt="">
-                                            <img src="assets/images/products/p6_hover.jpg" alt=""
+                                            <img src=" {{ asset('images/products/p6.jpg') }}" alt="">
+                                            <img src=" {{ asset('images/products/p6_hover.jpg') }}" alt=""
                                                 class="hover-image">
                                         </a>
 
@@ -1371,8 +1371,8 @@
             <div class="product-image">
               <div class="image"> 
                     <a href="detail.html">
-                       <img src="assets/images/products/p10.jpg" alt=""> 
-                        <img src="assets/images/products/p10_hover.jpg" alt="" class="hover-image">
+                       <img src=" {{ asset('images/products/p10.jpg') }}" alt=""> 
+                        <img src=" {{ asset('images/products/p10_hover.jpg') }}" alt="" class="hover-image">
                     </a>
                     
                     </div>
@@ -1419,8 +1419,8 @@
             <div class="product-image">
               <div class="image"> 
                     <a href="detail.html">
-                       <img src="assets/images/products/p2.jpg" alt=""> 
-                        <img src="assets/images/products/p2_hover.jpg" alt="" class="hover-image">
+                       <img src=" {{ asset('images/products/p2.jpg') }}" alt=""> 
+                        <img src=" {{ asset('images/products/p2_hover.jpg') }}" alt="" class="hover-image">
                     </a>
                     
                     </div>
@@ -1467,8 +1467,8 @@
             <div class="product-image">
               <div class="image"> 
                     <a href="detail.html">
-                       <img src="assets/images/products/p3.jpg" alt=""> 
-                        <img src="assets/images/products/p3_hover.jpg" alt="" class="hover-image">
+                       <img src=" {{ asset('images/products/p3.jpg') }}" alt=""> 
+                        <img src=" {{ asset('images/products/p3_hover.jpg') }}" alt="" class="hover-image">
                     </a>
                     
                     </div>
@@ -1515,8 +1515,8 @@
             <div class="product-image">
               <div class="image"> 
                     <a href="detail.html">
-                       <img src="assets/images/products/p1.jpg" alt=""> 
-                        <img src="assets/images/products/p1_hover.jpg" alt="" class="hover-image">
+                       <img src=" {{ asset('images/products/p1.jpg') }}" alt=""> 
+                        <img src=" {{ asset('images/products/p1_hover.jpg') }}" alt="" class="hover-image">
                     </a>
                     
                     </div>
@@ -1563,8 +1563,8 @@
             <div class="product-image">
               <div class="image"> 
                     <a href="detail.html">
-                       <img src="assets/images/products/p7.jpg" alt=""> 
-                        <img src="assets/images/products/p7_hover.jpg" alt="" class="hover-image">
+                       <img src=" {{ asset('images/products/p7.jpg') }}" alt=""> 
+                        <img src=" {{ asset('images/products/p7_hover.jpg') }}" alt="" class="hover-image">
                     </a>
                     
                     </div>
@@ -1611,8 +1611,8 @@
             <div class="product-image">
               <div class="image"> 
                     <a href="detail.html">
-                       <img src="assets/images/products/p9.jpg" alt=""> 
-                        <img src="assets/images/products/p9_hover.jpg" alt="" class="hover-image">
+                       <img src=" {{ asset('images/products/p9.jpg') }}" alt=""> 
+                        <img src=" {{ asset('images/products/p9_hover.jpg') }}" alt="" class="hover-image">
                     </a>
                     
                     </div>

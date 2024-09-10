@@ -1,4 +1,4 @@
-<div class="sidebar-widget product-tag">
+<div class="sidebar-widget product-tag outer-bottom-small">
     <h3 class="section-title">Product tags</h3>
     <div class="sidebar-widget-body outer-top-xs">
         <div class="tag-list"> <a class="item" title="Phone" href="category.html">Phone</a> <a class="item active"
