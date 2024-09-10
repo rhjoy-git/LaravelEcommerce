@@ -1,0 +1,10 @@
+mix.sass('resources/sass/app.scss', 'public/css')
+    .sass('resources/sass/animate.scss', 'public/css')
+    .sass('resources/sass/blue.scss', 'public/css')
+    .sass('resources/sass/bootstrap-select.scss', 'public/css')
+    .sass('resources/sass/font-awesome.scss', 'public/css')
+    .sass('resources/sass/lightbox.scss', 'public/css')
+    .sass('resources/sass/owl.carousel.scss', 'public/css')
+    .sass('resources/sass/owl.transitions.scss', 'public/css')
+    .sass('resources/sass/rateit.scss', 'public/css')
+    .sass('resources/sass/style.scss', 'public/css');
