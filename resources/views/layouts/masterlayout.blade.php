@@ -34,6 +34,7 @@
 
 <body class="cnt-home">
     @include('partials.header')
+    @includeUnless(request()->is('/'), 'partials.breadcrumb')
     @include('partials.bodycontainer')
     @include('products.servicefeatures')
     @include('partials.footer')
