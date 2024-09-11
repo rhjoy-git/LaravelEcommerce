@@ -9,7 +9,7 @@ Route::get('/', function () {
 
 Route::get('/details', function(){
     return view('details');
-})->name('details');
+})->name('detail');
 
 // 404 Error page
 Route::fallback(function () {
